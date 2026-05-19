@@ -1,0 +1,21 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Large image files — deposit to Zenodo, not git
+leaves/raw/*.tif
+leaves/raw/*.tiff
+leaves/raw/*.png
+pond-water/raw/*.tif
+pond-water/raw/*.tiff
+pond-water/raw/*.png
+archives/*.zip
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+*.swp

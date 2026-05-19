@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Microscope Observations"
+authors:
+  - family-names: Delaney
+    given-names: Susan
+    orcid: https://orcid.org/0009-0002-3854-1833
+license: CC-BY-SA-4.0
+repository-code: https://github.com/ngc2419/microscope-observations
+
+# Add Zenodo DOIs here as working papers are deposited:
+# references:
+#   - type: dataset
+#     doi: 10.5281/zenodo.XXXXXXX
+#     title: ""
